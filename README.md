@@ -1,4 +1,4 @@
-# Pracatica-github-
+# Practica-github-
 
 # Proyecto practica github 
 
